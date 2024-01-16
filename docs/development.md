@@ -6,6 +6,11 @@
 - formatting
 - test coverage
 - ...
+- ...
+
+You can check
+[this presentation](https://github.com/OpenSenseAction/OpenSense_workshop_git_hub/blob/main/repro_sci_opensense_workshop.pdf)
+for an overview of git and its workflows.
 
 ## Releasing packages
 
